@@ -1,10 +1,9 @@
 int count=0;
 int button=3;
-int led=2;
+
 
 void setup() {
-  pinMode(button,INPUT);
-  pinMode(led,OUTPUT);
+  pinMode(button,INPUT_PULLUP);
   Serial.begin(9600);
 }
 
