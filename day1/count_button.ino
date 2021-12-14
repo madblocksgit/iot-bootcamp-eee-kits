@@ -9,11 +9,10 @@ void setup() {
 }
 
 void loop() {
-  int m=digitalRead(button);
-  if(m==0) {
-    while(m==0);
+  if(digitalRead(button)==0) {
+    while(digitalRead(button)==0);
     count++;
-    delay(100);
+    delay(10);
     Serial.print("Count: ");
     Serial.println(count);
   }
