@@ -15,7 +15,7 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 5. git (<a href="https://git-scm.com">Download Git for Windows</a>)
 
 # NodeMCU Additional Board Manager URL
-http://arduino.esp8266.com/stable/package_esp8266com_index.json
+http://arduino.esp8266.com/stable/package_esp8266com_index.json, https://dl.espressif.com/dl/package_esp32_index.json
 
 # Install Agent through this
 https://create.arduino.cc/getting-started/plugin/welcome
