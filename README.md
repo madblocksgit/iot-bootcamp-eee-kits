@@ -23,6 +23,9 @@ https://create.arduino.cc/getting-started/plugin/welcome
 # NodeMCU Pinout
 <img src="https://i1.wp.com/www.teachmemicro.com/wp-content/uploads/2018/04/NodeMCUv3.0-pinout.jpg?ssl=1" />
 
+# ESP32 Pinout
+<img src="https://raw.githubusercontent.com/AchimPieters/esp32-homekit-camera/master/Images/ESP32-38%20PIN-DEVBOARD.png" />
+
 # Subscribe on our Youtube Channel
 https://youtube.com/madblockstechnologies
 
